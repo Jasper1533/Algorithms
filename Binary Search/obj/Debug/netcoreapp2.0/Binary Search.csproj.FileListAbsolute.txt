@@ -1,0 +1,10 @@
+C:\Users\Jasper\Documents\Git\Algorithms\Binary Search\bin\Debug\netcoreapp2.0\Binary Search.deps.json
+C:\Users\Jasper\Documents\Git\Algorithms\Binary Search\bin\Debug\netcoreapp2.0\Binary Search.runtimeconfig.json
+C:\Users\Jasper\Documents\Git\Algorithms\Binary Search\bin\Debug\netcoreapp2.0\Binary Search.runtimeconfig.dev.json
+C:\Users\Jasper\Documents\Git\Algorithms\Binary Search\bin\Debug\netcoreapp2.0\Binary Search.dll
+C:\Users\Jasper\Documents\Git\Algorithms\Binary Search\bin\Debug\netcoreapp2.0\Binary Search.pdb
+C:\Users\Jasper\Documents\Git\Algorithms\Binary Search\obj\Debug\netcoreapp2.0\Binary Search.csproj.CoreCompileInputs.cache
+C:\Users\Jasper\Documents\Git\Algorithms\Binary Search\obj\Debug\netcoreapp2.0\Binary Search.AssemblyInfoInputs.cache
+C:\Users\Jasper\Documents\Git\Algorithms\Binary Search\obj\Debug\netcoreapp2.0\Binary Search.AssemblyInfo.cs
+C:\Users\Jasper\Documents\Git\Algorithms\Binary Search\obj\Debug\netcoreapp2.0\Binary Search.dll
+C:\Users\Jasper\Documents\Git\Algorithms\Binary Search\obj\Debug\netcoreapp2.0\Binary Search.pdb

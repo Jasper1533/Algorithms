@@ -1,0 +1,10 @@
+C:\Users\Jasper\Documents\Git\Algorithms\Sequential Search\bin\Debug\netcoreapp2.0\Sequential Search.deps.json
+C:\Users\Jasper\Documents\Git\Algorithms\Sequential Search\bin\Debug\netcoreapp2.0\Sequential Search.runtimeconfig.json
+C:\Users\Jasper\Documents\Git\Algorithms\Sequential Search\bin\Debug\netcoreapp2.0\Sequential Search.runtimeconfig.dev.json
+C:\Users\Jasper\Documents\Git\Algorithms\Sequential Search\bin\Debug\netcoreapp2.0\Sequential Search.dll
+C:\Users\Jasper\Documents\Git\Algorithms\Sequential Search\bin\Debug\netcoreapp2.0\Sequential Search.pdb
+C:\Users\Jasper\Documents\Git\Algorithms\Sequential Search\obj\Debug\netcoreapp2.0\Sequential Search.csproj.CoreCompileInputs.cache
+C:\Users\Jasper\Documents\Git\Algorithms\Sequential Search\obj\Debug\netcoreapp2.0\Sequential Search.AssemblyInfoInputs.cache
+C:\Users\Jasper\Documents\Git\Algorithms\Sequential Search\obj\Debug\netcoreapp2.0\Sequential Search.AssemblyInfo.cs
+C:\Users\Jasper\Documents\Git\Algorithms\Sequential Search\obj\Debug\netcoreapp2.0\Sequential Search.dll
+C:\Users\Jasper\Documents\Git\Algorithms\Sequential Search\obj\Debug\netcoreapp2.0\Sequential Search.pdb
