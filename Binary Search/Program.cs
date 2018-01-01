@@ -8,7 +8,7 @@ namespace Binary_Search
         {
             int[] values = new int[] {1, 6, 9, 10, 15, 30};
             BinarySearch algorithm = new BinarySearch();
-            Console.WriteLine(algorithm.search(values, 1));
+            Console.WriteLine(algorithm.search(values, 0));
         }
     }
 }
