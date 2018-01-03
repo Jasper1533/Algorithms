@@ -1,0 +1,10 @@
+C:\Users\Jasper\Documents\Git\Algorithms\Doubly List\bin\Debug\netcoreapp2.0\Doubly List.deps.json
+C:\Users\Jasper\Documents\Git\Algorithms\Doubly List\bin\Debug\netcoreapp2.0\Doubly List.runtimeconfig.json
+C:\Users\Jasper\Documents\Git\Algorithms\Doubly List\bin\Debug\netcoreapp2.0\Doubly List.runtimeconfig.dev.json
+C:\Users\Jasper\Documents\Git\Algorithms\Doubly List\bin\Debug\netcoreapp2.0\Doubly List.dll
+C:\Users\Jasper\Documents\Git\Algorithms\Doubly List\bin\Debug\netcoreapp2.0\Doubly List.pdb
+C:\Users\Jasper\Documents\Git\Algorithms\Doubly List\obj\Debug\netcoreapp2.0\Doubly List.csproj.CoreCompileInputs.cache
+C:\Users\Jasper\Documents\Git\Algorithms\Doubly List\obj\Debug\netcoreapp2.0\Doubly List.AssemblyInfoInputs.cache
+C:\Users\Jasper\Documents\Git\Algorithms\Doubly List\obj\Debug\netcoreapp2.0\Doubly List.AssemblyInfo.cs
+C:\Users\Jasper\Documents\Git\Algorithms\Doubly List\obj\Debug\netcoreapp2.0\Doubly List.dll
+C:\Users\Jasper\Documents\Git\Algorithms\Doubly List\obj\Debug\netcoreapp2.0\Doubly List.pdb
