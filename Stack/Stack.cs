@@ -25,7 +25,7 @@ namespace Stack{
             s[stack_index] = value;
         }
         public T pop(){
-            if(stack_index == -1){
+            if(this.isEmpty()){
                 throw new InvalidOperationException("The stack is empty");
             }
             T value = s[--stack_index];
